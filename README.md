@@ -1,1 +1,1 @@
-# IA_Algoritmo-Genetico_Trelica
+# Algoritmo Genético - Treliça
