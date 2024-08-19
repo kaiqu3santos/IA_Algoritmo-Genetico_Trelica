@@ -1,0 +1,1 @@
+# IA_Algoritmo-Genetico_Trelica
