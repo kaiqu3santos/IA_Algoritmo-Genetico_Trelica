@@ -51,7 +51,8 @@ O design otimizado da treliça, gerado pelo Algoritmo Genético, mostra economia
 ### Pré-requisitos
 
 - Python 3.x
-- Bibliotecas Python necessárias (listadas em `requirements.txt`)
+- Bibliotecas Python necessárias
+  - matplotlib
 
 ### Instalação
 
